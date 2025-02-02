@@ -1,0 +1,1 @@
+Updated Windows Defender Remover.  Just run the exectuable as administrator, and then wait for the pop up window saying its complete and to reboot your computer.  Updated to work on all windows versions 10 and 11.  
